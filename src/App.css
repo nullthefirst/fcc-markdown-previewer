@@ -1,7 +1,19 @@
 .app {
 }
 
+#board {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+}
+
 #title {
-  color: #f0f0f0;
+  color: #167bff;
   text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #f0f0f0;
+}
+
+#preview {
+  color: #f0f0f0;
 }

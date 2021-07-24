@@ -14,3 +14,18 @@
 #preview {
   color: #f0f0f0;
 }
+
+#footer {
+  display: flex;
+  justify-content: center;
+  color: #f0f0f0;
+  text-decoration: none;
+}
+
+#footer:visited {
+  color: #f0f0f0;
+}
+
+#footer:hover {
+  color: #167bff;
+}

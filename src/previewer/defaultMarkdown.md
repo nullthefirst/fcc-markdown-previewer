@@ -34,12 +34,12 @@ I danced in many flames
 
 ## Love is war
 
-the first hue I kissed was Red  
+the first hue I kissed was **Red**  
 a beautiful soul  
 with skin like the hands of time  
 she liked the colour of my mind
 
-[**I was pained when it ended**](https://ilovedred.netlify.app/).  
+[I was pained when it ended](https://ilovedred.netlify.app/).  
 a fornight of bliss and changes,  
 a lifetime of scars, unbandaged  
 she taught me love

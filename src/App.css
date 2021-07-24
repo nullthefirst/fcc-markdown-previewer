@@ -18,8 +18,6 @@
 #footer {
   display: flex;
   justify-content: center;
-  color: #f0f0f0;
-  text-decoration: none;
 }
 
 #footer:visited {
@@ -28,4 +26,17 @@
 
 #footer:hover {
   color: #167bff;
+}
+
+a {
+  text-decoration: none;
+  color: #f0f0f0;
+}
+
+a:visited {
+  color: #167bff;
+}
+
+a:hover {
+  color: #f0f0f0;
 }

@@ -58,3 +58,16 @@ all above I dine with
 each night when I dream of glory
 
 ---
+
+## The schema
+
+```
+moving forward
+I will keep the lane of focus
+at hand, and in sight
+
+have all else dance along,
+until of self-accord
+a union in roads is formed.
+A king must stay strong
+```

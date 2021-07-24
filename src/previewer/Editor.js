@@ -1,12 +1,13 @@
 import React from 'react';
 import marked from 'marked';
 import html from 'html-react-parser';
+import { defaultMarkdown } from './markdown';
 
 class Editor extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      input: '',
+      input: defaultMarkdown,
     };
     this.handleInput = this.handleInput.bind(this);
   }

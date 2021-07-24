@@ -1,3 +1,4 @@
+const markdown = `
 # Youth & Time
 
 ![Cover image](https://null-assetz.netlify.app/images/art/24072021-youth-and-time.png)
@@ -27,7 +28,7 @@ I started arranging my words
 
 a palace of dreams and contemplation  
 I wrote in many names  
-`changing ... as the wind blew`  
+\`changing ... as the wind blew\`  
 I danced in many flames
 
 ---
@@ -61,7 +62,7 @@ each night when I dream of glory
 
 ## The schema
 
-```
+\`\`\`
 moving forward
 I will keep the lane of focus
 at hand, and in sight
@@ -70,4 +71,8 @@ have all else dance along,
 until of self-accord
 a union in roads is formed.
 A king must stay strong
-```
+\`\`\`
+
+`;
+
+module.exports.defaultMarkdown = markdown;

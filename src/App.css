@@ -1,6 +1,3 @@
-.app {
-}
-
 #board {
   display: flex;
   flex-flow: column wrap;

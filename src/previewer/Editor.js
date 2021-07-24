@@ -30,7 +30,7 @@ class Editor extends React.Component {
           value={this.state.input}
           onChange={this.handleInput}></textarea>
         <br />
-        <p id="preview">{parsedHtml}</p>
+        <div id="preview">{parsedHtml}</div>
       </div>
     );
   }

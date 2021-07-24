@@ -5,7 +5,7 @@ import Previewer from './previewer';
 
 function App() {
   return (
-    <div className="app">
+    <div>
       <ReactFCCtest />
       <Previewer />
     </div>

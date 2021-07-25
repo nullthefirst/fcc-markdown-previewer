@@ -1,5 +1,5 @@
 const markdown = `
-# Youth & Time
+# Youth and Time
 
 ![Cover image](https://null-assetz.netlify.app/images/art/24072021-youth-and-time.png)
 
@@ -17,8 +17,6 @@ I had learnt the tune
 of Solomon's song of vanity  
 and near the ocean did dream bright
 
----
-
 ## First phase
 
 half a sun dance  
@@ -30,8 +28,6 @@ a palace of dreams and contemplation
 I wrote in many names  
 \`changing ... as the wind blew\`  
 I danced in many flames
-
----
 
 ## Love is war
 
@@ -47,8 +43,6 @@ she taught me love
 
 > & that it was war
 
----
-
 ## Dimensions
 
 1. Digital art
@@ -57,8 +51,6 @@ she taught me love
 
 all above I dine with  
 each night when I dream of glory
-
----
 
 ## The schema
 

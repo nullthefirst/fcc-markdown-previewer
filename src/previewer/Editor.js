@@ -18,7 +18,14 @@ class Editor extends React.Component {
     });
   }
 
+  componentDidMount() {}
+
   render() {
+    marked.setOptions({
+      gfm: true,
+      breaks: true,
+    });
+
     const rawHtml = marked(this.state.input);
     const parsedHtml = html(rawHtml);
 
@@ -32,6 +39,7 @@ class Editor extends React.Component {
           onChange={this.handleInput}></textarea>
         <br />
         <div id="preview">{parsedHtml}</div>
+        {/* <div id="preview" dangerouslySetInnerHTML={{ __html: rawHtml }}></div> */}
       </div>
     );
   }

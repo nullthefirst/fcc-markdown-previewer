@@ -1,5 +1,5 @@
 const markdown = `
-# Youth & Time
+# Youth and Time
 
 ![Cover image](https://null-assetz.netlify.app/images/art/24072021-youth-and-time.png)
 
@@ -17,8 +17,6 @@ I had learnt the tune
 of Solomon's song of vanity  
 and near the ocean did dream bright
 
----
-
 ## First phase
 
 half a sun dance  
@@ -31,8 +29,6 @@ I wrote in many names
 \`changing ... as the wind blew\`  
 I danced in many flames
 
----
-
 ## Love is war
 
 the first hue I kissed was **Red**  
@@ -41,13 +37,11 @@ with skin like the hands of time
 she liked the colour of my mind
 
 [I was pained when it ended](https://ilovedred.netlify.app/).  
-a fornight of bliss and changes,  
+a fortnight of bliss and changes,  
 a lifetime of scars, unbandaged  
 she taught me love
 
 > & that it was war
-
----
 
 ## Dimensions
 
@@ -57,8 +51,6 @@ she taught me love
 
 all above I dine with  
 each night when I dream of glory
-
----
 
 ## The schema
 

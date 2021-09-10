@@ -41,6 +41,10 @@ a:hover {
   color: #f0f0f0;
 }
 
+#editor {
+  display: none;
+}
+
 #content {
   margin: 3rem 0;
 }

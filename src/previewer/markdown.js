@@ -3,7 +3,7 @@ const markdown = `
 
 ![Cover image](https://null-assetz.netlify.app/images/art/24072021-youth-and-time.png)
 
----
+<div id="content">
 
 ## Beginnings
 
@@ -65,6 +65,7 @@ a union in roads is formed.
 A king must stay strong
 \`\`\`
 
+</div>
 `;
 
 module.exports.defaultMarkdown = markdown;
